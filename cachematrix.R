@@ -1,4 +1,3 @@
-
 ## makeCacheMatric creates special matrix that is able to cache it's inversion
 ##
 ## cacheSove use matrix created by makeCacheMatric to compute its inversion and store it or 
